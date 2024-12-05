@@ -1,0 +1,40 @@
+356 + 487
+783 + 246
+562 + 139
+418 + 291
+673 + 287
+754 - 312
+936 - 548
+621 - 478
+843 - 216
+597 - 254
+128 × 7
+92 × 45
+315 × 9
+64 × 23
+74 × 58
+648 ÷ 18
+1,024 ÷ 32
+825 ÷ 25
+1,440 ÷ 36
+1,260 ÷ 42
+Find the area of a rectangle with length 12 cm and width 8 cm.
+Find the perimeter of a triangle with sides 7 cm, 9 cm, and 11 cm.
+Find the area of a circle with radius 6 cm.
+Find the area of a circle with radius 5 cm.
+Find the perimeter of a rectangle with length 6 cm and width 9 cm.
+Find sin(x) if x equals 30 degrees.
+Find cos(x) if x equals 45 degrees.
+Find the missing side in a right triangle where the hypotenuse is 13 cm and one leg is 5 cm.
+Find the value of tan(x) if x equals 60 degrees.
+Find the height of a building if the distance from the base of the building to the observer is 10 meters, and the angle of elevation is 45 degrees.
+Find the derivative of f(x) = 5x^3 - 4x^2 + 2x - 1.
+Find the derivative of f(x) = (3x^4 / 2) - 7x + 6.
+Find the derivative of f(x) = sin(x) + 3x^2.
+Find the derivative of f(x) = 2e^x + 4x.
+Find the derivative of f(x) = 4x^2 * ln(x).
+Find the integral of f(x) = 1 / (x^2 + 1).
+Find the integral of f(x) = e^(2x).
+Find the integral of f(x) = 3x^2 - 4x + 5.
+Find the integral of f(x) = sin(x).
+Find the integral of f(x) = 2x.
